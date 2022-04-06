@@ -1,0 +1,57 @@
+html {
+  scroll-behavior: smooth;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	/*background: blanchedalmond;*/
+	background: rgb(83, 65, 86);
+	color: whitesmoke;
+}
+
+#name {
+	font-family: 'Akronim', cursive;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 500%;
+	text-align: center;
+}
+
+.topnav {
+	font-size: 50px;
+	text-align: center;	
+}
+
+.navitem {
+	display: flex;
+}
+
+.topnav a:hover {
+	font-style: italic;
+	text-decoration: overline;
+}
+
+.topnav a {
+	display: inline;
+	text-align: center;
+	padding: 15px 15px;
+	color: whitesmoke;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.social {
+	text-align: center;
+	white-space: 20px;
+}
+
+.socmed {
+	padding-right: 65px;
+	padding-left: 60px;
+}
+
+#footer {
+	text-align: center;
+	padding: 10px;
+}
