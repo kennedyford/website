@@ -2,7 +2,8 @@ html {
   scroll-behavior: smooth;
   width: 100vw;
   overflow-x: hidden;
-  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Rajdhani', sans-serif;
 }
 
 body {
@@ -12,7 +13,6 @@ body {
 }
 
 #name {
-	font-family: 'Akronim', cursive;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 500%;
 	text-align: center;
@@ -53,15 +53,15 @@ body {
 
 #howdy {
 	padding: 10px;
-	margin: 10px;
+	margin: 35px;
 }
 
 #hi {
-	font-size: 80px;
+	font-size: 100px;
 }
 
 #whoibe {
-	margin: 35px;
+	margin: 40px;
 }
 
 #para {
